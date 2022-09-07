@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="placeholders">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/libs/placeholders.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

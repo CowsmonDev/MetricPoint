@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RSCalendar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/libs/RSCalendar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
